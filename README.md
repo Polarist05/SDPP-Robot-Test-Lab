@@ -4,6 +4,10 @@
 * pip install robotframework-requests
 * pip install robotframework-seleniumlibrary
 
+หรือ
+
+* pip install -r requirement.txt
+
 # เขียน Script
 
 * isPrime.robot
