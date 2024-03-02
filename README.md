@@ -15,7 +15,7 @@
 # Run
 
 * node server (ใน repo 1)
-* python -m robot isPrime
+* python -m robot isPrime.robot
 
 # Commit branch
 
